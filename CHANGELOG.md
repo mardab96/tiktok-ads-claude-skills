@@ -2,7 +2,7 @@
 
 ## [1.0.0] - 2026-10-09
 
-Prepared initial release; publication pending.
+Published initial release.
 
 ### Added
 
